@@ -1,0 +1,19 @@
+item {
+  id: 1
+  name: 'window'
+}
+
+item {
+  id: 2
+  name: 'stool couch'
+}
+
+item {
+  id: 3
+  name: 'door'
+}
+
+item {
+  id: 4
+  name: 'cabinet'
+}

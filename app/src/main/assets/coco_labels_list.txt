@@ -1,0 +1,4 @@
+window
+stool couch
+door
+cabinet

@@ -1,0 +1,60 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] C:\Users\_code_x\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.12.0.aar\4d226193bafd80965745fc5fe1a3f0f5\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:3:5-56
+	xmlns:android
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:5:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:6:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:7:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:9:22-68
+application
+ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:11:5-25:19
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] C:\Users\_code_x\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.12.0.aar\4d226193bafd80965745fc5fe1a3f0f5\AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.12.0] C:\Users\_code_x\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.12.0.aar\4d226193bafd80965745fc5fe1a3f0f5\AndroidManifest.xml:5:5-6:19
+	android:supportsRtl
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:17:9-76
+activity#com.tf.objectdetection.objectdetection_tf.Activity.MainActivity
+ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:screenOrientation
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:19:13-50
+	android:name
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:18:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\_code_x\AndroidProjects\ObjectDetectionTF2\app\src\main\AndroidManifest.xml:22:27-74

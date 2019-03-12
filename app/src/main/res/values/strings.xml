@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Object Detection - TF</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="picture">Picture</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="api_key">AIzaSyB_Sx2dMRjKssbV63ys84p_C1OLMZp3d8c</string>
+
+</resources>
